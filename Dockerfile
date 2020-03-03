@@ -17,6 +17,4 @@ RUN apt-get update \
     && apt-get -y install git \
     && apt-get clean; rm -rf /var/lib/apt/lists/* /tmp/* /var/tmp/* /usr/share/doc/*
 
-CMD ["/usr/sbin/php-fpm7.4", "-F"]
-
 EXPOSE 8080
