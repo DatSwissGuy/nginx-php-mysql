@@ -1,4 +1,4 @@
-# Simple NGINX, PHP and MySQL Docker Compose
+# Docker Compose: NGINX, PHP and MySQL 
 
 ## Filestructure: 
 
