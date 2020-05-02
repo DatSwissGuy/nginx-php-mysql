@@ -8,5 +8,7 @@ The folder `/application` inside of the container is not accessible via any http
 
 So if you want to access your files via Browser they have to be in the `public` folder.
 
+Excuse my lack of terminology, i'm still learning the correct words ;)
+
 # TODO's
 Finish this readme file :)
